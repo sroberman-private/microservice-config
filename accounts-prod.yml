@@ -1,0 +1,11 @@
+build:
+  version: "520.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Jane Prod - Support Lead"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345
